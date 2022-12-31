@@ -51,20 +51,18 @@
 <table>
   <tr>
     <th>
-      <img width="300" height="1">
       <h4>Technology/Framework</h4>
     </th>
     <th>
-      <img width="300" height="1">
       <h4>Tools/Code quality</h4>
     </th>
     <th>
-      <img width="300" height="1">
       <h4>Software</h4>
     </th>
   </tr>
   <tr>
     <td valign="top">
+      <img width="300" height="1">
       <ul>
         <li>
           <img src="https://raw.githubusercontent.com/AnTSaSk/AnTSaSk/main/assets/images/tech-javascript.svg" width="16" height="16" /> Javascript
@@ -90,6 +88,7 @@
       </ul>
   </td>
     <td valign="top">
+      <img width="300" height="1">
       <ul>
         <li>
           <img src="https://raw.githubusercontent.com/AnTSaSk/AnTSaSk/main/assets/images/serv-github.svg" width="16" height="16" /> Github / <img src="https://raw.githubusercontent.com/AnTSaSk/AnTSaSk/main/assets/images/serv-gitlab.svg" width="16" height="16" /> GitLab
@@ -118,6 +117,7 @@
       </ul>
     </td>
     <td valign="top">
+      <img width="300" height="1">
       <ul>
         <li>
           <img src="https://raw.githubusercontent.com/AnTSaSk/AnTSaSk/main/assets/images/soft-vscode.svg" width="16" height="16" /> Visual Studio Code
