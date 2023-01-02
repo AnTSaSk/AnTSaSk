@@ -15,7 +15,7 @@
 - 🚀 I'm a __Lead Front-end Developer__ working at [@Arneogroup](https://arneogroup.com/) since 2020 *(previously Front-end Developer at [@Adfab](https://adfab.fr/))*
 - ♥️ Meticulous about code quality, performance, eco-conception - I really love to optimize/enhance code
 - ✨ Had a huge interest about open-source (motivated to do!) and newly about web3, webgl/3D
-- 📫 You can contact me at [alexis.bessonweb@gmail.com](mailto:alexis.bessonweb@gmail.com) to discuss about open-source projet/idea or just about dev things!
+- 📫 You can contact me on any social media/my email [me@alexis-besson.dev](mailto:me@alexis-besson.dev) to discuss about open-source projet/idea or just about dev things!
 
 
 #### Social media
@@ -36,12 +36,14 @@
   <a href="https://codepen.io/AnTSaSk">
     <img src="https://img.shields.io/badge/Codepen-blue?style=for-the-badge&logo=codepen&logoColor=white&color=141414" alt="Codepen Badge"/>
   </a>
+<!---
   <a href="https://medium.com/@alexis.bessonweb">
     <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white&color=141414" alt="Medium Badge"/>
   </a>
   <a href="https://dev.to/antsask">
     <img src="https://img.shields.io/badge/Dev.to-blue?style=for-the-badge&logo=devdotto&logoColor=white&color=141414" alt="Dev.to Badge"/>
   </a>
+--->
 </div>
 
 - - - -
@@ -139,13 +141,48 @@
   </tr>
 </table>
 
-<!---
 - - - -
 
 ### Projects
 
-
---->
+<table>
+  <tr>
+    <th>
+      <h4>Name</h4>
+    </th>
+    <th>
+      <h4>Description</h4>
+    </th>
+    <th>
+      <h4>Link(s)</h4>
+    </th>
+    <th>
+      <h4>Status</h4>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AnTSaSk/Portfolio" target="_blank">Portfolio</a>
+    </td>
+    <td>
+      <img width="400" height="1">
+      <p>Simple personnal website to show my personnality (#eastereggs), personnal/professional projects (case study) and maybe a blog</p>
+      <p>Currently working on the Design System on Figma</p>
+    </td>
+    <td>
+      <img width="300" height="1">
+      <ul>
+        <li>
+          Website: <a href="https://alexis-besson.dev">https://alexis-besson.dev</a>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <img width="50" height="1">
+      <img src="https://img.shields.io/badge/Status-WIP-yellow" />
+    </td>
+  </tr>
+</table>
 
 - - - -
 
