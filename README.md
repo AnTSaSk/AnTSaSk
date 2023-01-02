@@ -36,14 +36,14 @@
   <a href="https://codepen.io/AnTSaSk">
     <img src="https://img.shields.io/badge/Codepen-blue?style=for-the-badge&logo=codepen&logoColor=white&color=141414" alt="Codepen Badge"/>
   </a>
-<!---
+<!--
   <a href="https://medium.com/@alexis.bessonweb">
     <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white&color=141414" alt="Medium Badge"/>
   </a>
   <a href="https://dev.to/antsask">
     <img src="https://img.shields.io/badge/Dev.to-blue?style=for-the-badge&logo=devdotto&logoColor=white&color=141414" alt="Dev.to Badge"/>
   </a>
---->
+-->
 </div>
 
 - - - -
@@ -160,6 +160,8 @@
       <h4>Status</h4>
     </th>
   </tr>
+  
+  <!--  Portfolio  -->
   <tr>
     <td>
       <a href="https://github.com/AnTSaSk/Portfolio" target="_blank">Portfolio</a>
@@ -180,6 +182,27 @@
     <td>
       <img width="50" height="1">
       <img src="https://img.shields.io/badge/Status-WIP-yellow" />
+    </td>
+  </tr>
+  
+  <!--  Open source?  -->
+  <tr>
+    <td></td>
+    <td>
+      <img width="400" height="1">
+      <p>An open-source project?</p>
+    </td>
+    <td>
+      <img width="300" height="1">
+      <ul>
+<!--
+        <li></li>
+-->
+      </ul>
+    </td>
+    <td>
+      <img width="50" height="1">
+      <img src="https://img.shields.io/badge/Status-Open-blue" />
     </td>
   </tr>
 </table>
