@@ -168,7 +168,7 @@
     </td>
     <td>
       <img width="400" height="1">
-      <p>Simple personnal website to show my personnality (#eastereggs), personnal/professional projects (case study) and maybe a blog</p>
+      <p>Simple personal website to show my personality (#eastereggs), personal/professional projects (case study) and maybe a blog</p>
       <p>Currently working on the Design System on Figma</p>
     </td>
     <td>
