@@ -14,7 +14,7 @@
 
 - 🚀 I'm a __Lead Front-end Developer__ working at [@Arneogroup](https://arneogroup.com/) since 2019/2020 *(previously Front-end Developer at [@Adfab](https://adfab.fr/))*
 - ♥️ Meticulous about code quality, performance, eco-conception - I really love to optimize/enhance code #refactor
-- ✨ Have a huge interest about open-source (motivated to do!) and newly about WebGPU/WebGL, Threejs/3D
+- ✨ Have a huge interest about open-source (motivated to do!) and start some open-source project in [@Arneogroup](https://arneogroup.com/)!
 - 📫 You can contact me on any social media/my email [me@alexis-besson.dev](mailto:me@alexis-besson.dev) to discuss about open-source projet/idea or just about dev things!
 
 
