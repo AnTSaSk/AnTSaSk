@@ -14,8 +14,8 @@
 
 - 🚀 I'm a __Lead Front-end Developer__ working at [@Arneogroup](https://arneogroup.com/) since 2019/2020 *(previously Front-end Developer at [@Adfab](https://adfab.fr/))*
 - ♥️ Meticulous about code quality, performance, eco-conception - I really love to optimize/enhance code #refactor
-- ✨ Have a huge interest about open-source (motivated to do!) and start some open-source project in [@Arneogroup](https://arneogroup.com/)!
-- 📫 You can contact me on any social media/my email [me@alexis-besson.dev](mailto:me@alexis-besson.dev) to discuss about open-source projet/idea or just about dev things!
+- ✨ Have a huge interest about open-source and start some open-source project in [@Arneogroup](https://arneogroup.com/)!
+- 📫 You can contact me on any social media/my email [me@alexis-besson.dev](mailto:me@alexis-besson.dev)
 
 
 #### Social media
@@ -169,7 +169,7 @@
     <td>
       <img width="400" height="1">
       <p>Simple personal website to show my personality (#eastereggs), personal/professional projects (case study) and maybe a blog</p>
-      <p>Currently working on the Design System on Figma</p>
+      <p>Moodboard, Design System and some screens are already designed in Figma, but occupied with other projects</p>
     </td>
     <td>
       <img width="300" height="1">
@@ -181,7 +181,7 @@
     </td>
     <td>
       <img width="50" height="1">
-      <img src="https://img.shields.io/badge/Status-WIP-yellow" />
+      <img src="https://img.shields.io/badge/Status-StandBy-yellow" />
     </td>
   </tr>
   
@@ -206,11 +206,6 @@
     </td>
   </tr>
 </table>
-
-- - - -
-
-### Stats
-![AnTSaSk's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnTSaSk&count_private=true&theme=gotham)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=gotham)
 
